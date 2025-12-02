@@ -133,7 +133,7 @@ const isCorrect = (questionIndex: number) => {
       </div>
 
       <div class="question-section">
-        <h2 class="question">{{ currentQuestion.question }}</h2>
+        <h2 class="question">{{ currentQuestion?.question }}</h2>
         
         <div class="options">
           <div 
