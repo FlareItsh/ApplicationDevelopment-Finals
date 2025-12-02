@@ -1,0 +1,51 @@
+Question,Option 1,Option 2,Option 3,Option 4,Correct Answer
+What is the primary activity of software testing?,Executing a system under specified conditions,Designing user interfaces,Managing project timelines,Writing documentation,Executing a system under specified conditions
+Which of the following is a direct objective of software testing?,Identify and reveal as many errors as possible,Improve company reputation,Reduce production costs,Increase team size,Identify and reveal as many errors as possible
+Which objective refers to ensuring software is ready for delivery?,Direct objective,Indirect objective,Quality assurance,Product deployment,Direct objective
+What is an indirect objective of testing?,Compile a record of software errors,Perform test cases,Reduce coding time,Increase system performance,Compile a record of software errors
+Who typically performs unit testing?,Developer,Customer,System testers,End-user,Developer
+What is the goal of unit testing?,Test individual units for expected output,Test the entire system,Test integrated modules,Test user requirements,Test individual units for expected output
+Integration testing focuses on:,Interfaces between modules,Individual modules,User acceptance,System requirements,Interfaces between modules
+System testing verifies:,System requirements,Cost analysis,Design diagrams,Project planning,System requirements
+"Which test may include usability, security, and performance?",System testing,Unit testing,Integration testing,Acceptance testing,System testing
+Performance testing includes:,Load and stress testing,Unit behavior,Interface checking,User training,Load and stress testing
+Acceptance testing is performed by:,Customers or system users,Developers,Designers,Project managers,Customers or system users
+Which phase tests requirement correctness and testability?,Requirements analysis,Deployment,Intermediate design,Implementation,Requirements analysis
+What is created in the requirements phase to guide testing?,Test plan,System architecture,User manual,Source code,Test plan
+In which phase is the mapping between requirements and design tested?,System design,Unit testing,Deployment,Performance testing,System design
+Intermediate design testing aims to avoid:,Interface mismatches,Budget problems,Personnel gaps,Documentation errors,Interface mismatches
+Unit and integration test plans are refined during:,Intermediate design,Deployment,Acceptance testing,Requirements gathering,Intermediate design
+The implementation phase testing focuses on:,Effective and efficient unit testing,System testing,Acceptance criteria,User manuals,Effective and efficient unit testing
+"During deployment, which tests are conducted?","System, acceptance, and usability tests",Unit tests,Benchmark tests,Architecture tests,"System, acceptance, and usability tests"
+A test case contains:,"Inputs, conditions, and expected results",Only input data,Only expected results,Only actual results,"Inputs, conditions, and expected results"
+Which is NOT typically included in a test case?,Tester’s salary,Expected results,Actual results,Test Case ID,Tester’s salary
+Unit testing evaluates:,Single units such as classes and methods,Entire systems,End-user behavior,Business processes,Single units such as classes and methods
+"If one unit test fails, the production code is considered:",Not meeting requirements,Deployable,Acceptable,Ready for integration,Not meeting requirements
+White-box testing verifies:,Internal logic and program statements,User experience,External functionality only,Business requirements,Internal logic and program statements
+Black-box testing is based on:,External descriptions such as requirements,Internal logic,Code walkthroughs,Network infrastructure,External descriptions such as requirements
+Black-box testing is typically executed through:,User interface,Code editors,Debug console,Server logs,User interface
+Extensive test cases in black-box testing lead to:,Extensive testing and more defects detected,More design errors,Slower performance,Higher costs,Extensive testing and more defects detected
+JUnit is a testing framework for:,Java,Python,C++,PHP,Java
+NUnit is used for:,.NET languages,Java,Mobile apps,XML,.NET languages
+TDD requires writing tests:,Before writing production code,After deployment,At the end,Only when needed,Before writing production code
+"In TDD, the first written test usually:",Doesn't compile,Passes immediately,Runs perfectly,Produces runtime errors,Doesn't compile
+"When a unit test fails after a code change, it indicates:",The last code change broke functionality,Server error,Requirement change,User misuse,The last code change broke functionality
+Refactoring in TDD means:,Improving code without changing external behavior,Adding features,Changing requirements,Rewriting the system,Improving code without changing external behavior
+Software deployment involves:,Packaging and installing software,Requirements analysis,Interviews,Use case creation,Packaging and installing software
+Deployment tools eliminate:,Manual deployment tasks,Documentation,Testing,Training,Manual deployment tasks
+Deployment tools ensure security by:,Managing permission settings,Blocking internet access,Removing user access,Encrypting source code,Managing permission settings
+Patch management involves:,Installing code updates,Removing outdated data,Updating manuals,Changing hardware,Installing code updates
+Deployment tool monitoring includes:,User interactions and software activities,Payroll processing,Marketing analytics,Employee ranking,User interactions and software activities
+Jenkins is primarily an:,Automation server,Database tool,Antivirus,IDE,Automation server
+Jenkins requires:,Java Runtime Environment,No installation,Python Runtime,Windows-only systems,Java Runtime Environment
+Octopus Deploy supports deployment for:,"ASP.NET, Java, and Node.js",Windows only,Java only,Mobile apps,"ASP.NET, Java, and Node.js"
+Which tool automates deployment in cloud and on-site environments?,Octopus Deploy,JUnit,Bamboo,NUnit,Octopus Deploy
+Bamboo provides support for:,Continuous delivery,Financial auditing,Video editing,Hardware testing,Continuous delivery
+Bamboo allows:,Real-time monitoring with error flagging,Code encryption,Hardware scanning,Business forecasting,Real-time monitoring with error flagging
+SolarWinds Patch Manager is used for:,Automated patch management,Web design,Game development,Cabling,Automated patch management
+SolarWinds Patch Manager supports patching for:,Microsoft servers and workstations,Linux only,Mobile devices,Third-party apps only,Microsoft servers and workstations
+Which test validates functional and non-functional requirements during deployment?,System testing,TDD,White-box testing,Unit testing,System testing
+Test data in a test case includes:,Both valid and invalid data sets,Only valid data,No data,Only invalid data,Both valid and invalid data sets
+The status field in a test case indicates:,"Pass, Fail, or Not Executed",Developer performance,Code coverage,System uptime,"Pass, Fail, or Not Executed"
+Administrative details in a test case may include:,Tester’s name and execution date,Source code,Security flaws,Programming mistakes,Tester’s name and execution date
+The goal of integrating testing into development is to:,Find errors early and prevent propagation,Increase documentation,Delay coding,Reduce hardware needs,Find errors early and prevent propagation
